@@ -1,5 +1,5 @@
 {
-  "name": "alex-patterson-webdev/doctrine-query-filter",
+  "name": "blubberblah/doctrine-query-filter",
   "description": "Query filtering components for Doctrine ORM",
   "minimum-stability": "dev",
   "prefer-stable": true,
